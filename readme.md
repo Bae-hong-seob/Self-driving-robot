@@ -7,7 +7,7 @@
   - [for window](https://youtu.be/_F-tl9s-CjI)
   - [for MAC](https://youtu.be/zsEMhvE8G2E)
 - 2.2. SAMBA 설치
-  - 
+  - https://youtu.be/TN2XQLQpH5Q
 3. 자동차 기능 구현하기
 4. 딥러닝 모델 탑재
 5. 딥러닝 모델 기능 추가 구현
