@@ -12,7 +12,12 @@
 3. 자동차 기능 기본 사용 방법 익히기
   - https://youtu.be/GfY-pexAtH4
 
-4. 데이터 획득하기
+4. 자동차 무선 조종하기
+  - https://youtu.be/phPtrqeSEpk
+
+
+5. 자율주행 자동차 카메라를 활용하기 (OpenCV 활용)
+  - https://youtu.be/naT3gB4Ca6o
 
 4. 딥러닝 모델 탑재
 5. 딥러닝 모델 기능 추가 구현
