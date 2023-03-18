@@ -14,5 +14,6 @@
 6. [딥러닝 자율주행 자동차 만들기 - 데이터 획득](https://youtu.be/Ua-28NoQoMI)
 7. [딥러닝 모델 생성하기 – Tensorflow 1.14](https://youtu.be/TwUYbwHfTbA)
 8. [라즈베리파이에 딥러닝 모델 적용 후 자율주행 실습](https://youtu.be/3B7BXFTVZpE)
+- https://user-images.githubusercontent.com/49437396/226098131-e0d2a139-56a0-459e-a43e-76bab928ec85.mp4
 9. 1-8장 요약
 10. [자율주행 자동차 이미지 전처리(필터 적용)하여 성능 높이기](https://youtu.be/4HXiq--_LfA)
