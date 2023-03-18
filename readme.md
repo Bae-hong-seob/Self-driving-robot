@@ -5,8 +5,6 @@
 - 2.1. 자동차 원격 접속하기 
   - [for window](https://youtu.be/6hZBRJsryvg)
   - [for MAC](https://youtu.be/zsEMhvE8G2E)
-- 2.2. SAMBA 설치
-  - https://youtu.be/TN2XQLQpH5Q
 
 3. [자동차 기능 기본 사용 방법 익히기](https://youtu.be/GfY-pexAtH4)
 4. [자동차 무선 조종하기](https://youtu.be/phPtrqeSEpk)
