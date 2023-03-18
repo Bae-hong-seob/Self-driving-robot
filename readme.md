@@ -8,7 +8,9 @@
   - [for MAC](https://youtu.be/zsEMhvE8G2E)
 - 2.2. SAMBA 설치
   - https://youtu.be/TN2XQLQpH5Q
+
 3. 자동차 기능 기본 사용 방법 익히기
+- https://youtu.be/GfY-pexAtH4
 
 4. 데이터 획득하기
 
