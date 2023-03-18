@@ -4,7 +4,7 @@
 - https://youtu.be/1Y5F0bxzvKY
 2. 자동차 원격 접속하기
 - 2.1. 자동차 원격 접속하기 
-  - [for window](https://youtu.be/_F-tl9s-CjI)
+  - [for window](https://youtu.be/6hZBRJsryvg)
   - [for MAC](https://youtu.be/zsEMhvE8G2E)
 - 2.2. SAMBA 설치
   - https://youtu.be/TN2XQLQpH5Q
