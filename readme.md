@@ -2,7 +2,6 @@
 
 1. [자동차 조립](https://youtu.be/1Y5F0bxzvKY)
 2. 자동차 원격 접속하기
-- 2.1. 자동차 원격 접속하기 
   - [for window](https://youtu.be/6hZBRJsryvg)
   - [for MAC](https://youtu.be/zsEMhvE8G2E)
 
