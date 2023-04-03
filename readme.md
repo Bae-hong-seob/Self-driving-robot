@@ -17,5 +17,5 @@
 10. [자율주행 자동차 이미지 전처리(필터 적용)하여 성능 높이기](https://youtu.be/4HXiq--_LfA)
 
 
-<br>
+<hr>
 pytorch로 모델 생성
