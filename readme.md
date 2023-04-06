@@ -15,6 +15,9 @@
   
 9. 1-8장 요약
 10. [자율주행 자동차 이미지 전처리(필터 적용)하여 성능 높이기](https://youtu.be/4HXiq--_LfA)
+11. 다양한 트랙에서 테스트해보기
+    - [Track S](https://youtube.com/shorts/XuCUaxBrEIY?feature=share)
+    - [Track O](https://youtu.be/VJ-gknLUBSU)
 
 
 <hr>
