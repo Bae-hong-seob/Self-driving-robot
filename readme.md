@@ -1,5 +1,5 @@
 # Accomplishment 
-## ICROS 2023 Study on a Self-Driving Service through a MEC server
+ICROS 2023 Study on a Self-Driving Service through a MEC server
 - (공)저자	배홍섭 , 김대현 , 손재성 , 박재성
 
 # [라즈베리파이 자율주행 자동차 Tutorial](https://www.youtube.com/@Hank-hw8vi/videos)
